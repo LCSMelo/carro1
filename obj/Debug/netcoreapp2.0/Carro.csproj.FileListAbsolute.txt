@@ -1,0 +1,10 @@
+C:\Users\39694603870\Desktop\Projetos\Carro\bin\Debug\netcoreapp2.0\Carro.deps.json
+C:\Users\39694603870\Desktop\Projetos\Carro\bin\Debug\netcoreapp2.0\Carro.runtimeconfig.json
+C:\Users\39694603870\Desktop\Projetos\Carro\bin\Debug\netcoreapp2.0\Carro.runtimeconfig.dev.json
+C:\Users\39694603870\Desktop\Projetos\Carro\bin\Debug\netcoreapp2.0\Carro.dll
+C:\Users\39694603870\Desktop\Projetos\Carro\bin\Debug\netcoreapp2.0\Carro.pdb
+C:\Users\39694603870\Desktop\Projetos\Carro\obj\Debug\netcoreapp2.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\39694603870\Desktop\Projetos\Carro\obj\Debug\netcoreapp2.0\Carro.AssemblyInfoInputs.cache
+C:\Users\39694603870\Desktop\Projetos\Carro\obj\Debug\netcoreapp2.0\Carro.AssemblyInfo.cs
+C:\Users\39694603870\Desktop\Projetos\Carro\obj\Debug\netcoreapp2.0\Carro.dll
+C:\Users\39694603870\Desktop\Projetos\Carro\obj\Debug\netcoreapp2.0\Carro.pdb
